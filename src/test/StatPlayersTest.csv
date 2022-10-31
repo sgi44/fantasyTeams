@@ -1,0 +1,45 @@
+Players;Equipe;MJ;Min;Rb;Pd;Int;Ct;Bp;Pts;Pos;Score;Price;Value;Value W;ValuePrice;Matchs;Exclude
+Nikola Jokic;Denver Nuggets;12;35.1;11,2;10,4;1,9;0,5;4,1;24,2;C;680,5;28,2;56,34;225,36;2;4;0
+Luka Doncic;Dallas Mavericks;9;34.1;9,6;8,3;1,2;1;4,4;27,4;PG;536,2;25,2;53,57;214,28;2,13;4;0
+Kevin Durant;Brooklyn Nets;9;34.3;7,2;5,8;0,8;0,9;3,7;29,4;SF;433;24,7;48,14;192,56;1,95;4;0
+Nikola Vucevic;Orlando Magic;11;31.5;11,3;3,5;1;0,5;1,2;22,5;C;522;20,1;44,61;178,44;2,22;4;0
+Malcolm Brogdon;Indiana Pacers;12;36.9;4,2;7,4;1,8;0,2;1,7;22,8;PG;517,3;17,9;43,24;172,96;2,42;4;0
+Demar Derozan;San Antonio Spurs;10;34.5;5,6;7;0,9;0,7;1,3;20,4;SF;409,7;19,3;41,12;164,48;2,13;4;0
+Pascal Siakam;Toronto Raptors;10;36.0;8,6;5;1;0,6;2,5;19,9;PF;398,7;18,9;40,02;160,08;2,12;4;0
+Ben Simmons;Philadelphia 76ers;11;32.7;8,6;7,9;1,6;1;3,9;12,4;PG;424,5;20,9;38,47;153,88;1,84;4;0
+De'aaron Fox;Sacramento Kings;12;30.6;3;5,4;1,4;0,8;3;19,2;PG;431,1;19,3;34,5;138;1,79;4;0
+Andrew Wiggins;Golden State Warriors;12;32.8;4,7;2,5;0,4;1,8;2;17,8;SF;377,4;14,1;31,79;127,16;2,25;4;0
+Kelly Olynyk;Miami Heat;9;29.6;5,8;2,6;1,1;0,8;1,6;12;C;241,9;7,3;26,96;107,84;3,69;4;0
+Dennis Schroder;Los Angeles Lakers;13;30.9;4,1;4,8;0,8;0,2;2,5;14,2;PG;385,1;15,5;26,82;107,28;1,73;4;0
+Kristaps Porzingis;Dallas Mavericks;1;21.1;4;0;0;2;0;16;PF;57,3;19,1;26,8;107,2;1,4;4;0
+Jordan Clarkson;Utah Jazz;11;24.3;4,5;1,6;1;0,3;2,1;17,2;SG;324,4;14;26,8;107,2;1,91;4;0
+Duncan Robinson;Miami Heat;10;32.2;4;1,4;0,7;0,3;1,6;13,8;SF;221;12,7;22,1;88,4;1,74;4;0
+T.j. Warren;Indiana Pacers;4;29.3;3,5;1,2;0,5;0;1;15,5;SF;88,3;18,1;22;88;1,22;4;0
+Miles Bridges;Charlotte Hornets;13;26.0;5,4;1,8;0,8;1;1,8;9,2;SF;287,4;13,9;21,98;87,92;1,58;4;0
+Cole Anthony;Orlando Magic;11;23.3;4,2;3,1;0,5;0,2;1,5;9,5;PG;237,9;12,3;19,79;79,16;1,61;4;0
+Bobby Portis;Milwaukee Bucks;12;24.1;7,8;1,2;1;0,5;1,2;11,8;C;335,9;12,5;26,26;78,78;2,1;3;0
+Otto Porter;Chicago Bulls;10;23.5;6,3;2;0,8;0;1;12,8;SF;267,7;14,2;24,76;74,28;1,74;3;0
+Jakob Poeltl;San Antonio Spurs;12;18.7;5,8;2;0,5;0,6;0,9;4,1;C;197;12,3;16,46;65,84;1,34;4;0
+Robert Williams;Boston Celtics;8;16.3;6,5;0,6;1,1;1,5;1,4;6,8;C;175,7;8;21,9;65,7;2,74;3;0
+Willie Cauley-stein;Dallas Mavericks;10;17.4;5,7;1;0,4;0,7;0,7;5,4;C;190,9;8,3;16,34;65,36;1,97;4;0
+Tristan Thompson;Boston Celtics;8;23.1;8,5;0,8;0,2;0,8;1,2;8,4;C;194,3;14,8;21,6;64,8;1,46;3;0
+Gorgui Dieng;Memphis Grizzlies;9;17.0;4,6;1,6;1;0,6;1,1;8,1;C;175,2;11,1;19,72;59,16;1,78;3;0
+Rajon Rondo;Atlanta Hawks;2;15.6;1;7;0,5;0,5;1;6;PG;39,4;14,4;19,7;59,1;1,37;3;0
+Patrick Williams;Chicago Bulls;11;26.5;3,5;1;1;0,7;1,6;10,3;SF;243,5;14,2;19,5;58,5;1,37;3;0
+Austin Rivers;New York Knicks;8;28.8;2,9;2,8;0,6;0;1,5;11,5;SG;162;11,4;19,48;58,44;1,71;3;0
+Desmond Bane;Memphis Grizzlies;11;22.3;3;1;0,7;0;1,1;8,4;SG;157,1;8;14,5;43,5;1,81;3;0
+Ben Mclemore;Houston Rockets;4;17.6;2,5;2;0,5;0;2;8,8;SG;57;6,5;14,3;42,9;2,2;3;0
+Isaiah Stewart Ii;Detroit Pistons;9;16.9;5,1;0,7;0,3;0,7;0,6;4,2;PF;139,8;9;13,77;41,31;1,53;3;0
+Chuma Okeke;Orlando Magic;5;18.3;2,6;1,6;0,6;0,2;0,6;3;PF;51,6;7,6;10,32;41,28;1,36;4;0
+Isaac Bonga;Washington Wizards;8;11.8;2,2;0,8;0,2;0,4;0,4;3;SF;66,6;7,3;8,24;32,96;1,13;4;0
+Sekou Doumbouya;Detroit Pistons;10;11.4;2,4;0,5;0,4;0,2;0,2;4,3;SF;96,8;12,5;9,53;28,59;0,76;3;0
+E'twaun Moore;Phoenix Suns;2;4.7;0,5;0;0;0;1;1;SG;-2;9,8;0,6;1,8;0,06;3;1
+Skylar Mays;Atlanta Hawks;3;3.7;0;0,3;0;0;0;0;SG;0;7,4;0,45;1,35;0,06;3;1
+Keita Bates-diop;San Antonio Spurs;3;1.6;0;0,3;0;0;0;0;SF;3;5,7;0,45;1,8;0,08;4;1
+Terrance Ferguson;Philadelphia 76ers;5;3.5;0,2;0,2;0;0;0,2;0;SF;1,7;10,5;0,34;1,36;0,03;4;1
+Theo Pinson;New York Knicks;6;2.6;0,2;0;0;0;0;0;SG;1,2;6,8;0,24;0,72;0,04;3;1
+Jalen Harris;Toronto Raptors;2;2.2;0,5;0;0;0;0,5;0;PG;0,2;6,7;0,1;0,4;0,01;4;1
+Deividas Sirvydis;Detroit Pistons;2;1.0;0;0;0;0;0;0;SG;0;5,6;0;0;0;3;1
+Jaylen Adams;Milwaukee Bucks;1;0.9;0;0;0;0;0;0;PG;0;8,8;0;0;0;3;1
+Jared Harper;New York Knicks;2;2.6;0;0;0;0;1;1;PG;1;6,7;0;0;0;3;1
+Anzejs Pasecniks;Washington Wizards;1;6.3;1;1;0;0;5;0;C;-2,3;7,4;-2,3;-9,2;-0,31;4;1
