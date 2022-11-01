@@ -36,7 +36,8 @@ Arguments possibles en ligne de commande :
 - `--includePalyers={}` : optionnel, joueurs à inclure dans les équipes calculées (séparé par une virgule)
 - `--request` : optionnel, pour interroger directement la bdd existante (sans calcul des équipes, nécessite donc au préalable d'un appel classique pour la création de la BDD)
 
-Un fichier de log `fantasyTeams.log` est généré.
+Un fichier de log `fantasyTeams.log` est généré.  
+L'ensemble des équipes possibles calculés est enregistré dans la BDD h2 générée par le projet (la base est vidée à chaque nouvelle demande).
 
 ## Développement
 
